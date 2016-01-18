@@ -1,0 +1,13 @@
+{
+    "name": "athakim/stats",
+    "description": "Statistical Package for a site",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hakim AIT TAYEB",
+            "email": "athakim95@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
