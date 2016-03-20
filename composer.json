@@ -1,0 +1,21 @@
+{
+    "name": "athakim/stats",
+    "description": "Statistical Package for a site",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hakim AIT TAYEB",
+            "email": "athakim95@gmail.com"
+        }
+    ],
+    "autoload":{
+            "psr-4":{
+                "Athakim\\Stats\\": "src/"
+            }
+        },
+    "minimum-stability": "stable",
+    
+    "require": {
+        "illuminate/support" :"~5"
+    }
+}
